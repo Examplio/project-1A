@@ -13,9 +13,11 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
+
 namespace WpfApp1
 {
-    int[] = Random
+    
     public partial class MainWindow : Window
     {
         public MainWindow()
