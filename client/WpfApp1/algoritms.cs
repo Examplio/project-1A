@@ -20,7 +20,7 @@ public class SortAlgo // 1 class all metods
         }
     }
 
-    public static int[] HeapSort(arr)// heap sort
+    public static int[] HeapSort(int[] array)// heap sort
     {
         if (size <= 1)
             return array;
